@@ -1,0 +1,64 @@
+<script type='text/javascrpt'>
+
+// THIS IS NOT USED CURRENTLY
+
+var sites = [
+	{
+		"site_id": 500,	
+		"name": "Greenbrier Elementary School",
+		"address_line_1": "12203 Canterbury Dr",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70814",
+		"enrollment": 271 
+	},
+	{
+		"site_id": 501,	
+		"name": "Park Elementary School",
+		"address_line_1": "2680 Bogan Walk",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70802",
+		"enrollment": 314
+	},
+	{
+		"site_id": 502,	
+		"name": "Villa del Rey Elementary School",
+		"address_line_1": "9765 Cuyhanga Pkwy",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70815",
+		"enrollment": 237
+	},
+	{
+		"site_id": 503,	
+		"name": "University Terrace Elementary School",
+		"address_line_1": "575 W Roosevelt St",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70802",
+		"enrollment": 182
+	},
+	{	"site_id": 504,	
+		"name": "J. K. Haynes Charter Inc",
+		"address_line_1": "8600 Elm Grove Garden Dr",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70807",
+		"enrollment": 186
+	},
+	{
+		"site_id": 505,	
+		"name": "Highland Elementary School",
+		"address_line_1": "280 Sunset Blvd",
+		"city": "Baton Rouge",
+		"state": "LA",
+		"zip_code": "70808",
+		"enrollment": 269
+	}
+ ]
+
+
+
+
+</script>
